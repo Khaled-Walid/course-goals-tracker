@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/course-goals-tracker/build/static/css/main.e1eb8190.chunk.css",
+    "main.js": "/course-goals-tracker/build/static/js/main.0416360e.chunk.js",
+    "main.js.map": "/course-goals-tracker/build/static/js/main.0416360e.chunk.js.map",
+    "runtime-main.js": "/course-goals-tracker/build/static/js/runtime-main.5d97578b.js",
+    "runtime-main.js.map": "/course-goals-tracker/build/static/js/runtime-main.5d97578b.js.map",
+    "static/js/2.676707ad.chunk.js": "/course-goals-tracker/build/static/js/2.676707ad.chunk.js",
+    "static/js/2.676707ad.chunk.js.map": "/course-goals-tracker/build/static/js/2.676707ad.chunk.js.map",
+    "index.html": "/course-goals-tracker/build/index.html",
+    "static/css/main.e1eb8190.chunk.css.map": "/course-goals-tracker/build/static/css/main.e1eb8190.chunk.css.map",
+    "static/js/2.676707ad.chunk.js.LICENSE.txt": "/course-goals-tracker/build/static/js/2.676707ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d97578b.js",
+    "static/js/2.676707ad.chunk.js",
+    "static/css/main.e1eb8190.chunk.css",
+    "static/js/main.0416360e.chunk.js"
+  ]
+}
